@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">fitbit</string>
+    <string name="GENDER">dropDownMenu</string>
+    <string-array name="Genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="Gain_Resource">
+
+       \n <b><h1>Sunday</h1></b>
+        \n
+        \n Breakfast (8:00-8:30AM)
+        \n 2 egg brown bread sandwich +
+        \n green chutney +
+        \n 1 cup milk +
+        \n 3 cashews +
+        \n 4 almonds +
+        \n 2 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n1 cup banana shake
+        \nLunch (2:00-2:30PM)
+        \n1 cup arhar dal +
+        \n1 cup potato curry +
+        \n3 chapatti +
+        \n1/2 cup rice +
+        \n1/2 cup low fat curd +
+        \nsalad
+        \nEvening (4:00-4:30PM)
+        \n1 cup strawberry smoothie +
+        \n1 cup vegetable poha
+        \nDinner (8:00-8:30PM)
+        \n1.5 cup chicken curry +
+        \n3 chapatti + salad
+        \n
+        \n <b><h1>Monday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n3 onion stuffed parantha +
+        \n1 cup curd + 3 cashews +
+        \n4 almonds +  2 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n1 cup mango shake
+        \nLunch (2:00-2:30PM)
+        \n1 cup moong dal/ chicken curry +
+        \n1 cup potato and caulifllower vegetable +
+        \n3 chapatti + 1/2 cup rice + salad
+        \nEvening (4:00-4:30PM)
+        \n1 cup pomegranate juice +
+        \n2 butter toasted bread
+        \nDinner (8:00-8:30PM)
+        \n1 cup beans potato vegetable +
+        \n3 chapatti + salad
+        \n
+        \n <b><h1>Tuesday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n3 paneer stuffed besan cheela +
+        \ngreen chutney + 1 cup curd +
+        \n3 cashews + 4 almonds + 2 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n1 apple smoothie with maple syrup
+        \nLunch (2:00-2:30PM)
+        \n1 cup masoor dal + 1 cup calocasia +
+        \n3 chapatti + 1/2 cup rice +
+        \n1 cup low curd + salad
+        \nEvening (4:00-4:30PM)
+        \n1 cup tomato soup with bread crumbs +
+        \n1 cup aloo chaat
+        \nDinner (8:00-8:30PM)
+        \n1 cup carrot peas vegetable +
+        \n3 chapatti + salad
+        \n
+        \n <b><h1>Wednesday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n1.5 cup vegetable bread upma +
+        \n1 cup milk + 3 cashews +
+        \n4 almonds + 2 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n1 cup ripe banana with 2 tsp ghee
+        \nLunch (2:00-2:30PM)
+        \n1 cup rajma curry +
+        \n1 cup spinach potato +
+        \n3 chapatti + 1/2 cup rice + salad
+        \nEvening (4:00-4:30PM)
+        \n1 cup vegetable juice +
+        \n1 cup upma
+        \nDinner (8:00-8:30PM)
+        \n1.5 cup parwal vegetable +
+        \n3 chapatti + salad
+        \n
+        \n <b><h1>Thursday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n2 cucmber potato sandwich +
+        \n1 tsp green chutney +
+        \n1 orange juice +
+        \n3 cshews + 2 walnuts + 4 almonds
+        \nMid-Meal (11:00-11:30AM)
+        \n1 cup buttermilk +
+        \n1 cup sweet potato chaat
+        \nLunch (2:00-2:30PM)
+        \n1 cup white chana/ fish curry +
+        \n3 chapatti + 1/2 cup rice + salad
+        \nEvening (4:00-4:30PM)
+        \n1 cup almond milk + banana
+        \nDinner (8:00-8:30PM)
+        \n1 cup cauliflower potato vegetable +
+        \n3 chapatti + salad
+        \n
+        \n <b><h1>Friday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n2 cup vegetable poha +
+        \n1 cup curd + 3 cashews +
+        \n4 almonds + 2 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n2 cups watermelon juice
+        \nLunch (2:00-2:30PM)
+        \n1 cup chana dal +
+        \n1 cup bhindi vegetable +
+        \n3 chapatti + 1/2 cup rice +
+        \nsalad
+        \nEvening (4:00-4:30PM)
+        \n1 cup sprouts salad +
+        \n2 potato cheela + green chutney
+        \nDinner (8:00-8:30PM)
+        \n1 cup peas mushroom vegetable +
+        \n3 chapatti + salad
+        \n
+        \n<b><h1>Saturday</h1></b>
+        \nBreakfast (8:00-8:30AM)
+        \n3 vegetable suji cheela +
+        \n1 cup strawberry shake +
+        \n4 cashews + 4 almonds + 3 walnuts
+        \nMid-Meal (11:00-11:30AM)
+        \n1 cup coconut water +
+        \n1 cup pomegrate
+        \nLunch (2:00-2:30PM)
+        \n1 cup mix dal +
+        \n1 cup soybean curry +
+        \n3 chapatti + 1/2 cup curd + salad
+        \nEvening (4:00-4:30PM)
+        \n1 cup fruit salad +
+        \n4 pc vegetable cutlets + green chutney
+        \nDinner (8:00-8:30PM)
+        \n1 cup karela vegetable +
+        \n3 chaptti + salad</string>
+
+    <string name="Loss_Resource">
+
+        \n <b><h1>Monday</h1></b>
+        \n1.Start your day by drinking cucumber water.
+        \n2.Then for breakfast have 1 bowl of oats porridge with skimmed milk.
+        \n3.Have a bowl of dal, sabzi, and 1 roti or 1 cup of brown rice for lunch.
+        \n4.For dinner fill your plate with a bowl of dal, sabzi, and 1 roti.
+        \n5.To satisfy mid-meal hunger pangs try snacking on fruits, 1 glass of buttermilk, or one bowl of yogurt
+        \n
+        \n <b><h1>Tuesday</h1></b>
+        \n1.Start your day with cucumber detox water or one glass of lukewarm water in the morning
+        \n2.To bring in some variety to your breakfast try consuming a mixed vegetable chilla along with curd (Avoid pickles initially, but you can add pickles to your meal once in a while at a later stage)
+        \n3.For lunch, have one bowl of palak pulao with dal
+        \n4.At night, skip the roti and instead increase your intake of vegetables
+        \n5.You can include paneer and sautéed vegetables in your dinner
+        \n
+        \n <b><h1>Wednesday</h1></b>
+        \n1.On the third day, you can skip Indian food and include multigrain brown bread toast and a bowl of fruits in yogurt for your breakfast
+        \n2.For lunch, introduce sautéed vegetables along with paneer and have 1 small bowl of rice to compliment your carbohydrate requirement
+        \n3.For dinner, try some panner curry with a bowl of vegetables (You can consume any type of vegetable as per your palate and cravings)
+        \n4.For snacking, depend on fruits and yogurt or buttermilk
+        \n
+        \n <b><h1>Thursday</h1></b>
+        \n1.On the fourth day, start with a milkshake containing lots of nuts as well as your choice of fruits; you can also have a stuffed omelet with cheese, mushrooms, and onions
+        \n2.For lunch have a big bowl of urad dal, veggies, and paneer paratha
+        \n3.For dinner, you can have half a bowl of rice, and for protein include palak chole
+        \n4.For snacking continue eating fruits, yogurt, or buttermilk
+        \n
+        \n <b><h1>Friday</h1></b>
+        \n1.Start your day with a glass of low-fat milk and veggie upma for breakfast
+        \n2.For lunch, you can have a stuffed roti alongside a paneer bhurji with veggies
+        \n3.For dinner have 1 roti, 1 bowl of dal or yogurt, and 1 sabzi like a beans curry or baingan bharta
+        \n4.Simple Tips for Weight Loss
+        \n5.In addition to the aforementioned diet plan for weight loss, it is also important to follow simple steps in order to lead a healthier lifestyle.
+        \n6.As you follow the right diet, boost your weight loss with these tips and see faster and better results.
+        \n
+        \n Weight Loss Tips:
+        \n
+        \n1. Have Breakfast Every Single Day
+        \nMake it a practice to have breakfast, however stressful your routine may be.
+        \nIf need be, make the preparations for your breakfast a day prior as this will help you quickly cook up a meal without having to skip it.
+        \nBreakfast keeps you full for longer hours too, so be diligent about it.
+        \n
+        \n2. Eat Meals at Regular Intervals
+        \nKeeping your stomach empty for longer hours will make you crave food unnecessarily and at odd hours.
+        \nTo reduce your hunger pangs, maintain a sufficient gap of 2 hours between each meal and a bigger gap of 4 to 6 hours between the 3 main meals of the day.
+        \nThis way, your body will always stay satiated and your metabolism will continue to work.
+        \n
+        \n3. Increase the Consumption of Fruits and Vegetables
+        \nLow in calories, veggies and fruits are high in fiber and contain vitamins and minerals in abundance.
+        \nInstead of depending on packed snacks, you can simply replace them with salads and whole fruits.
+        \nThis will help you eliminate unhealthy foods and help you increase the fiber and nutrient intake of your body.
+        \n
+        \n4. Hike up Your Fluid Intake
+        \nDid you know that water actually helps you burn fat? That’s right! Increase your water intake in a considerable way when following a healthy diet plan for weight loss.
+        \nDrinking 3 to 4l of water every day helps release toxic wastes from your body and also increases your muscle elasticity. To allow your body to function with ease, remember to drink ample water.
+        \n
+        \n5. Increase Cardio Activities
+        \nThere is a misconception regarding exercises as people usually believe that only intense exercises help with losing weight and staying healthy.
+        \nIn reality, consistently following a simple and easy workout routine helps just as much! An example of this is brisk walking for 30 minutes a day to increase your body’s well-being and keep your weight under check.
+        \nWalking is an excellent cardio exercise, and it will complement your weight loss diet plan greatly.
+        \n
+        \n6. Bring Home Food that is Fresh
+        \nWhen following a healthy diet plan for weight loss it is important to be mindful of the food you consume.
+        \nThis starts with the ingredients you purchase or the vegetables and fruits you buy from the market.
+        \nIncrease your intake of seasonal produce and try to buy ingredients that are not packaged.
+        \nThe fresher the ingredients, the higher will be their nutrition value. Make it a practice to read nutrition labels if you are buying packaged food, sauces, or mixes.
+        \nThis help you get the calorie and other nutrient information, so you know that you’re spending money on something worthwhile.
+        \n
+        \n7. Avoid Junk as Much as Possible
+        \nAlong with banning preservatives in your daily diet, you should also put a check on the junk food you eat.
+        \nDecrease your consumption of chocolates, biscuits, sweet fizzy drinks, chips, and the like. Instead of looking to snack on these items, you should opt for healthy snacks, such as fruit and nuts.
+        \nIncrease your consumption of yogurt or curd to satiate your hunger instead of depending on packaged food.  </string>
+
+    <string name="click_to_login">Click to login</string>
+</resources>

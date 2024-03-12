@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.flash" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.DayNight.NoActionBar"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".Camera"
+            android:exported="false" />
+
+        <activity
+            android:name=".Sunday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Saturday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Friday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Wednesday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Tuesday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Monday_Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Sunday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Saturday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Friday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Thursday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Wednesday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Tuseday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Monday_Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Chest_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".Beginner_Level"
+            android:exported="false" />
+        <activity
+            android:name=".Advanced_Level"
+            android:exported="false" />
+        <activity
+            android:name=".Intermediate_Level"
+            android:exported="false" />
+        <activity
+            android:name=".Meal_Plan"
+            android:exported="false" />
+        <activity
+            android:name=".Workout_Plans"
+            android:exported="false" />
+        <activity
+            android:name=".Weight_Loss"
+            android:exported="false" />
+        <activity
+            android:name=".Weight_Gain"
+            android:exported="false" />
+        <activity
+            android:name=".Tricep_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulder_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar" />
+        <activity
+            android:name=".Login"
+            android:exported="true"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Legs_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".Home_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Health_Tips"
+            android:exported="false" />
+        <activity
+            android:name=".Calorie_Counter"
+            android:exported="false" />
+        <activity
+            android:name=".Bicep_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".Back_Workout"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Health_Tips">
+
+    <!-- Title TextView with margin -->
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HEALTH TIPS"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- ScrollView for Health Tips with margin -->
+    <ScrollView
+        android:id="@+id/tipsScrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <!-- Content TextView -->
+        <TextView
+            android:id="@+id/textView50"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:lineSpacingExtra="8dp"
+            android:padding="16dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="1. Exercise regularly: Engage in moderate-intensity physical activity for at least 30 minutes a day, five days a week. Regular exercise can help you manage your weight, improve your cardiovascular health, and reduce your risk of chronic diseases.\n\n2. Stay hydrated: Drink plenty of water and avoid sugary drinks. Staying hydrated can help keep your body functioning properly and prevent dehydration.\n\n3. Get enough sleep: Aim for 7-8 hours of sleep each night. Getting enough rest can help reduce stress levels, improve cognitive function, and boost your immune system.\n\n4. Manage stress: Find healthy ways to manage stress, such as practicing mindfulness, meditation, or yoga. Stress can have a negative impact on your mental and physical health if left unmanaged.\n\n5. Don't smoke or use tobacco products: Smoking and using tobacco products can increase your risk of various health problems, including lung cancer, heart disease, and stroke.\n\n6. Limit alcohol consumption: Drinking too much alcohol can increase your risk of liver disease, cancer, and other health problems. It's recommended to limit alcohol consumption to one drink per day for women and two drinks per day for men." />
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
